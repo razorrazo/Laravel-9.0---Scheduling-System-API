@@ -7,6 +7,16 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## About the project
+Welcome to the Scheduling System API documentation!
+
+This documentation provides you with the Scheduling System REST API endpoint requirements, sample JSON, request parameters, and response messages. Click on the HTTP verb for the resource you wish to explore!.. 🦊
+
+The API is organized around REST. Our API has predictable resource-oriented URLs, accepts form-encoded request bodies, returns JSON-encoded responses, and uses standard HTTP response codes.
+
+url to view documentation
+http://127.0.0.1:8000/docs/1.0/overview
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
