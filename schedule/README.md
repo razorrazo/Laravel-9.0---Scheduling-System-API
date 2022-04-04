@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About the project
+## About the Scheduling System project
 Welcome to the Scheduling System API documentation!
 
 This documentation provides you with the Scheduling System REST API endpoint requirements, sample JSON, request parameters, and response messages. Click on the HTTP verb for the resource you wish to explore!.. 🦊
